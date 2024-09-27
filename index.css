@@ -21,7 +21,7 @@ a{
 
 .geo, .sociales, .ecomerce, .streaming, .comunicacion, .basededatos, .plataformasonline {
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(213, 219, 219);
+    background-color: rgb(237, 76, 51);
     padding: 20px;
     border-radius: 20px;
     align-items: center;
@@ -43,8 +43,12 @@ button{
 }
 
 button:hover{
-    background-color: brown;
+    background-color: rgb(0, 0, 0);
     cursor: pointer;
+    color: black;
+    
 }
 
-
+body{
+    background-color: bisque;
+}

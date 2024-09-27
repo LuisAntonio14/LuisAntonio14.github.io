@@ -1,0 +1,33 @@
+.staticmap{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(213, 219, 219);
+    padding: 20px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    flex:content;
+    flex-wrap: wrap;
+    width: 50%;
+    
+    
+}
+
+.contenido{
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-basis: auto;
+    flex-wrap: wrap;
+    
+}
+button{
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+button:hover{
+    background-color: brown;
+    cursor: pointer;
+}
